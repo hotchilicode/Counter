@@ -23,3 +23,5 @@ Caunter is a basic web application that displays a counter that can be increment
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser to view the application.
 3. Click on the "Increase" and "Decrease" buttons to change the counter value.
+
+![Image Alt](https://github.com/hotchilicode/Counter/blob/807e53da675932bc6d5558f7d7613fb167ee18e0/caunter1.jpg)
